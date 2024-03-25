@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="bought">Bought</string>
+    <string name="title">Title</string>
+    <string name="entry">Entry</string>
+    <string name="mood">Mood</string>
+    <string name="date">Date</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="new_entry">New Entry</string>
+    <string name="Image">Image</string>
+    <string name="photo">Take Photo</string>
+    <string name="gallery">Add Photo</string>
+    <string name="mood_chart">Mood Chart</string>
+    <string name="weather">Weather in %s</string>
+    <string name="year_month_day">year.month.day</string>
+
+    <string-array name="mood_items">
+        <item>Good</item>
+        <item>Average</item>
+        <item>Bad</item>
+    </string-array>
+</resources>
